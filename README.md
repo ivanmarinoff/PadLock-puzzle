@@ -1,4 +1,6 @@
-PadLock-puzzle
+PadLock-puzzle!
+
+
 This is the solution from PadLock puzzle whith 3 digits! 
 Padlock has a 3 digit password to unlock. 
 Based on the information below, find out the password: 
